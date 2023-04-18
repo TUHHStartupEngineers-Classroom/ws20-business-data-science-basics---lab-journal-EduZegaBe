@@ -36,3 +36,14 @@ vignettes/*.pdf
 *.knit.md
 
 # R Environment Variables
+.Renviron
+*.css
+docs/site_libs/jqueryui-1.11.4/jquery-ui.theme.min.css
+docs/site_libs/jqueryui-1.11.4/README
+docs/site_libs/navigation-1.1/codefolding.js
+docs/site_libs/navigation-1.1/codefolding.js
+docs/site_libs/navigation-1.1/codefolding.js
+docs/site_libs/jqueryui-1.11.4/README
+docs/site_libs/jqueryui-1.11.4/README
+docs/site_libs/jqueryui-1.11.4/README
+docs/site_libs/bootstrap-3.3.5/css/bootstrap.css
